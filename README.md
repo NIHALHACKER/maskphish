@@ -15,7 +15,7 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux, Termux & Ubuntu):
 
 ```
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/NIHALHACKER/maskphish.git
 cd maskphish
 bash maskphish.sh
 ```
